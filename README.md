@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/ayan-IN/ImageAssets/blob/main/github-cover-code.jpg" />
 
 <!--
 **ayan-IN/ayan-IN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
