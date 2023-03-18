@@ -1,5 +1,9 @@
 <img src="https://github.com/ayan-IN/ImageAssets/blob/main/wwdc_org.png" />
 
+Hi there 👋<br/>
+Happy to see you here! Let me introduce myself.<br/>
+I'm <strong>Ayan</strong>, an <strong>India</strong> based fullstack web-developer with a focus in <strong>frontend</strong>, creating thoughtful, intuitive interfaces. I love to explore and keep learning new things. A learner, not restricted to development🤞.<br/>
+Open to people and very much approachable. Obsessed with travelling, gadgets and my pet friends. 🐶🐾
 <!--
 **ayan-IN/ayan-IN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
