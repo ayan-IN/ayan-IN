@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/ayan-IN/ImageAssets/blob/main/apple_wwdc.png" /> -->
+<img src="https://github.com/ayan-IN/ImageAssets/blob/main/apple_wwdc.png" />
 
 Hi there 👋<br/>
 Happy to see you here! Let me introduce myself.<br/>
