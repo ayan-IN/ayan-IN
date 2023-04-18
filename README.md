@@ -2,7 +2,7 @@
  -->
 Hi there 👋<br/>
 Happy to see you here! Let me introduce myself.<br/>
-I'm <strong>Ayan</strong>, an <strong>India</strong> based fullstack web-developer with a focus in <strong>frontend</strong>, creating thoughtful, intuitive interfaces. I love to explore and keep learning new things. A learner, not restricted to development🤞.<br/>
+I'm Ayan, an India based fullstack web-developer with a focus in frontend, creating thoughtful, intuitive interfaces. I love to explore and keep learning new things. A learner, not restricted to development🤞.<br/>
 Open to people and very much approachable. Obsessed with travelling, gadgets and my pet friends. 🐶🐾
 
 
