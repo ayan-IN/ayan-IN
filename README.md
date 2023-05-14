@@ -18,6 +18,9 @@ Open to people and very much approachable. Obsessed with travelling, gadgets and
 <img align="left" alt="HTML_CSS_JS"  height="40px" src="https://user-images.githubusercontent.com/114340956/235294210-b84bad42-ab5e-456b-bbee-43118069aecf.png" />
 <img align="left" alt="node"  height="40px" src="https://user-images.githubusercontent.com/114340956/235251503-0dd186d2-d070-4019-8d95-5f0273e5a583.png" />
 <img align="left" alt="express"  height="40px" src="https://user-images.githubusercontent.com/114340956/235293539-02f7f0df-4323-4dd2-b938-9d63435ceef9.png" />
+
+<br/><br/>
+
 <img align="left" alt="mongo"  height="40px" src="https://user-images.githubusercontent.com/114340956/235293644-1295518a-4847-4df3-a4a3-dedae6344bcd.png" />
 <img align="left" alt="firebase"  height="40px" src="https://user-images.githubusercontent.com/114340956/235293723-955aad40-acbc-4399-8ff3-5ca40389ab34.png" />
 <img align="left" alt="xcode"  height="40px" src="https://user-images.githubusercontent.com/114340956/235248558-7d51feac-471b-4784-a4e6-77285ffe539e.png" />
