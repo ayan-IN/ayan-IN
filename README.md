@@ -2,11 +2,9 @@
  -->
 Hi there 👋<br/>
 Happy to see you here! Let me introduce myself.<br/>
-I'm Ayan, an India based fullstack web-developer with a focus in frontend, creating thoughtful, intuitive interfaces. I love to explore and keep learning new things. A learner, not restricted to development🤞.<br/>
-Open to people and very much approachable. Obsessed with travelling, gadgets and my pet friends. 🐶🐾
+I'm Ayan, an India based fullstack web-developer with a focus in frontend, creating thoughtful, intuitive interfaces. 
 
-
-#### Tools, frameworks and langugaes I mostly use :
+#### Tools, frameworks and languages I mostly use :
 
  <img align="left" alt="react" height="40px" src="https://user-images.githubusercontent.com/114340956/235248931-60c9294a-dc6d-4b08-a84b-46390915c4d6.png" />
 <img align="left" alt="redux"  height="40px" src="https://user-images.githubusercontent.com/114340956/235249097-4f007b1f-e2f3-4f35-8b5e-2baeabc842f7.png" />
@@ -25,3 +23,8 @@ Open to people and very much approachable. Obsessed with travelling, gadgets and
 <img align="left" alt="firebase"  height="40px" src="https://user-images.githubusercontent.com/114340956/235293723-955aad40-acbc-4399-8ff3-5ca40389ab34.png" />
 <img align="left" alt="xcode"  height="40px" src="https://user-images.githubusercontent.com/114340956/235248558-7d51feac-471b-4784-a4e6-77285ffe539e.png" />
 <img align="left" alt="swift"  height="40px" src="https://user-images.githubusercontent.com/114340956/235247325-8e73fa14-3b14-4c82-95da-ad498a2e3a6e.png" />
+
+<br/><br/>
+
+I love to explore and keep learning new things. A learner, not restricted to development🤞.<br/>
+Open to people and very much approachable. Obsessed with travelling, gadgets and my pet friends. 🐶🐾
