@@ -23,6 +23,8 @@ I'm Ayan, an India based fullstack web-developer with a focus in frontend, creat
 <img align="left" alt="firebase"  height="40px" src="https://user-images.githubusercontent.com/114340956/235293723-955aad40-acbc-4399-8ff3-5ca40389ab34.png" />
 <img align="left" alt="xcode"  height="40px" src="https://user-images.githubusercontent.com/114340956/235248558-7d51feac-471b-4784-a4e6-77285ffe539e.png" />
 <img align="left" alt="swift"  height="40px" src="https://user-images.githubusercontent.com/114340956/235247325-8e73fa14-3b14-4c82-95da-ad498a2e3a6e.png" />
+<img aligh="left" alt="mysql" height="40px" src="https://github.com/ayan-IN/ayan-IN/assets/114340956/f2cc45a2-cb45-4e9b-b7b3-ef141272ac15" />
+
 
 <br/><br/>
 
