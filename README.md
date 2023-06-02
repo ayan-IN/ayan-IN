@@ -1,8 +1,19 @@
 <!-- <img src="https://github.com/ayan-IN/ImageAssets/blob/main/apple_wwdc.png" />
  -->
-Hi there 👋<br/>
+<!-- Hi there 👋<br/>
 Happy to see you here! Let me introduce myself.<br/>
-I'm Ayan, an India based fullstack web-developer with a focus in frontend, creating thoughtful, intuitive interfaces. 
+I'm Ayan, an India based fullstack web-developer with a focus in frontend, creating thoughtful, intuitive interfaces.  -->
+👋 Hey, I'm Ayan, a full-stack web developer from India with a passion for frontend development. 💻
+
+I craft thoughtful, intuitive interfaces that captivate users and enhance their experiences. With expertise in React.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Node.js, Express.js, MongoDB, Firebase, and more, I bring ideas to life and build dynamic web applications. 🚀
+
+I'm an eternal learner, constantly exploring and keeping up with the latest trends. But my curiosity extends beyond development. I embrace diverse domains and thrive on multidisciplinary knowledge. 📚
+
+Open to collaboration, I'm approachable and enjoy connecting with fellow developers. Let's learn from each other and make a positive impact on the community. 🤝
+
+When I'm not coding, you'll find me exploring new destinations, indulging in gadgets, and cherishing the company of my furry friends. 🌍📱
+
+Let's connect on GitHub and embark on an exciting journey of growth, innovation, and coding excellence! 🚀
 
 #### Tools, frameworks and languages I mostly use :
 
@@ -25,8 +36,5 @@ I'm Ayan, an India based fullstack web-developer with a focus in frontend, creat
 <img align="left" alt="swift"  height="40px" src="https://user-images.githubusercontent.com/114340956/235247325-8e73fa14-3b14-4c82-95da-ad498a2e3a6e.png" />
 <img aligh="left" alt="mysql" height="40px" src="https://github.com/ayan-IN/ayan-IN/assets/114340956/f2cc45a2-cb45-4e9b-b7b3-ef141272ac15" />
 
-
-<br/><br/>
-
-I love to explore and keep learning new things. A learner, not restricted to development🤞.<br/>
-Open to people and very much approachable. Obsessed with travelling, gadgets and my pet friends. 🐶🐾
+<!-- I love to explore and keep learning new things. A learner, not restricted to development🤞.<br/>
+Open to people and very much approachable. Obsessed with travelling, gadgets and my pet friends. 🐶🐾 -->
